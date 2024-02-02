@@ -1,0 +1,8 @@
+name = input ('what is your name?:')
+print(" hi " + name)
+age = input ('how old are you?:')
+print(" me too " + name)
+grade = input ('which grade are you?:')
+print(" we are peers " + name)
+home= input ('where did you live?:')
+print("but i live in california ")
